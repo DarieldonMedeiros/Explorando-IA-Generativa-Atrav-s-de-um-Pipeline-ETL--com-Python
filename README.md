@@ -71,5 +71,6 @@ pip install pandas requests google-generativeai python-dotenv
 
 - O projeto pode ser adaptado a outros setores/objetivos que exijam personalização de comunicações com clientes.
 - Para produção, recomenda-se uso seguro das chaves e melhorias na manipulação de dados sensíveis.
+- A API utilizada por definição não aceita que o id 1 atualize, logo foram atualizados somente os seguintes ids: 2, 3 e 4.
 
 Fique à vontade para explorar, adaptar e sugerir melhorias!
